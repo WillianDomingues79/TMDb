@@ -2,7 +2,7 @@
 
 ## Aplicação para consumo de API
 
-![alt](/TMDb-API/movies_lib/src/assets/TMDb-Gif.gif)
+![alt](/TMDb-API/movies_lib/src/assets/screen1.png)
 
 ### 💻 Tecnologias
 
