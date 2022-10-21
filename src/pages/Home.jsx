@@ -16,9 +16,6 @@ const Home = () => {
     setTopMovies(data.results)
   }
 
-  //No react não se faz assim usa o useEffect
-  //getTopRatedMovies()
-
   useEffect(() => {
     const topRatedUrl = `${movieUrl}top_rated?${apiKey}`
 
