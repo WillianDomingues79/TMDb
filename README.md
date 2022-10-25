@@ -23,6 +23,6 @@
 
 O Projeto constitui em uma aplicação de <u>consumo de API</u>, tanto para pesquisa de filmes na aplicação como trazer os filmes de acordo com a página requerida.
 
-Aplicação pode ser testada -> [Aqui](https://tmdb-api-mu.vercel.app/)
+Aplicação pode ser testada -> [Aqui](https://tmdb-api-coral.vercel.app/)
 
 ---
